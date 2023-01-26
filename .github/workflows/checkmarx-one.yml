@@ -1,5 +1,5 @@
 name: Checkmarx Scan
-# test1 FF and License ON
+# test2 FF OFF and License ON
 on: [push,pull_request,workflow_dispatch]
 
 

@@ -1,7 +1,6 @@
 name: Checkmarx Scan
-# test2 FF ON and License OFF
+# test2 FF ON and License ON
 on: [push,pull_request,workflow_dispatch]
-
 
 jobs:
   build:
